@@ -8,17 +8,14 @@
 ###
 ###
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErKeLost&theme=synthwave)](https://git.io/streak-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErKeLost&show_icons=true&theme=synthwave&repo=remote-adny)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErKeLost&theme=synthwave)](https://git.io/streak-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErKeLost&show_icons=true&theme=synthwave&repo=remote-adny)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErKeLost&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ###
 ###
 ###
 ###
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-###
-###
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErKeLost&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-###
 ###
 ###
 
