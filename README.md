@@ -7,4 +7,4 @@
 ####
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErKeLost&theme=synthwave)](https://git.io/streak-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erkelost&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900)](https://github.com/Erkelost?tab=repositories)
+
