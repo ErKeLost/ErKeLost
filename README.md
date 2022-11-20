@@ -1,4 +1,4 @@
-###  Rust and web development  Day By Day Through By Through 👋👋👋  ✨✨✨
+###  Rust and web development 📦📦📦  Day By Day Through By Through   ✨✨✨
 ###
 [![Generic badge](https://img.shields.io/badge/ADNY-VUE.JS-<COLOR>.svg)](https://shields.io/) 
 [![made-with-javascript](https://img.shields.io/badge/ErKeLost-JavaScript-1f425f.svg)](https://www.javascript.com)
