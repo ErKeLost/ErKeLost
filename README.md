@@ -1,4 +1,4 @@
-###  Rust & web & node & deno development 📦📦📦  Day By Day Through By Through   ✨✨✨
+###  Rust & web & node & web development Day By Day Through By Through   ✨✨✨
 ###
 
 
