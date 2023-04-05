@@ -1,4 +1,4 @@
-###  Rust & web & node & web development Day By Day Through By Through   ✨✨✨
+###  Rust & Go & Node & Web development Day By Day Through By Through   ✨✨✨
 ###
 
 
